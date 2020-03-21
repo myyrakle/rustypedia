@@ -1,1 +1,3 @@
-# rustypedia
+RustyWiki Front
+
+using Yew
