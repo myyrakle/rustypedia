@@ -1,4 +1,6 @@
+mod components;
+
 fn main() 
 {
-    println!("Hello, world!");
+    yew::start_app::<components::Index>();
 }
